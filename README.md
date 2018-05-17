@@ -14,3 +14,5 @@ $ wget -O - https://raw.githubusercontent.com/HalfDecent/HA-AIO-Installer/master
 - Debian 9 VM
 - Raspbian Strtech (minimal)
 - Raspbian Stretch (w/GUI)
+- Debian 9
+- Orange Pi +2E (Armbian Stretch mainline kernel 4.14.y)
