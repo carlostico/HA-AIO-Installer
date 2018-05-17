@@ -1,6 +1,6 @@
 #!/bin/bash
 # This script will install hassbian-config on the unit.
-# With hassbian-config it will install Home Assistnat in an Python Virtual Enviorment, like the one in HASSbian.
+# With hassbian-config it will install Home Assistnat in an Python Virtual Enviorment, like the one in Hassbian.
 #Run this command to install:
 # $ wget -O - https://raw.githubusercontent.com/HalfDecent/HA-AIO-Installer/master/installer.sh | sudo bash -
 #

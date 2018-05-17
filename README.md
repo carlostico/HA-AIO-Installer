@@ -9,3 +9,8 @@ This script will:
 ```bash
 $ wget -O - https://raw.githubusercontent.com/HalfDecent/HA-AIO-Installer/master/installer.sh | sudo bash -
 ```
+
+### Tested on:
+- Debian 9 VM
+- Raspbian Strtech (minimal)
+- Raspbian Stretch (w/GUI)
